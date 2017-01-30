@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3433577c599c19944a06c4e32d47902e
+timeCreated: 1484507962
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KavehesPixelV4
+  fontNames:
+  - KavehesPixelV4
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
